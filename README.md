@@ -1,0 +1,4 @@
+Serendipia
+==========
+
+Aprovechar las debilidades
