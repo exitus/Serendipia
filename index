@@ -4,6 +4,15 @@ Denominación produc;
   Authors: post&&exit
   Logos:
     # propuesta_01: Un racimo de uvas, Se podría establecer una piramide (normal, invertida) de bolas negras ( color??) 
-    #               
+    # propuesta_02: No me disgusta del todo; pero no lo veo todavía; creo que el logo se aparecerá por si solo.
   
+  Hardware:
+    # propuesta_xx:
+    
+  Software: 
+    // JS o PHP para la api de gmaps?
+  
+  Issues:
+    1. Bluetooth and android programing.
+    2. low cost devices(reverse engineer of them).
 --!>
